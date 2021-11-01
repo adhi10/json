@@ -1,0 +1,86 @@
+{
+    "Songs": [
+        {
+            "Artist": "Pop Smoke",
+            "Title": "Imperfections",
+            "Genres": [
+                "Rap"
+            ],
+            "Year": 2020
+        },
+        {
+            "Artist": "Travis Scott",
+            "Title": "Highest in the Room",
+            "Genres": [
+                "Rap"
+            ],
+            "Year": 2020
+        },
+        {
+            "Artist": "Avicii",
+            "Title": "Wake me up",
+            "Genres": [
+                "EDM"
+            ],
+            "Year": 2013
+        },
+        {
+            "Artist": "Avicii",
+            "Title": "Summer",
+            "Genres": [
+                "EDM"
+            ],
+            "Year": 2014
+        },
+        {
+            "Artist": "Daft Punk",
+            "Title": "One More Time",
+            "Genres": [
+                "EDM"
+            ],
+            "Year": 2000
+        },
+        {
+            "Artist": "Beatles",
+            "Title": "Hey Jude",
+            "Genres": [
+                "Rock"
+            ],
+            "Year": 1968
+        },
+        {
+            "Artist": "Martin Garrix",
+            "Title": "In the name of love",
+            "Genres": [
+                "EDM"
+            ],
+            "Year": 2016
+        },
+        {
+            "Artist": "Drake",
+            "Title": "One Dance",
+            "Genres": [
+                "EDM",
+                "Rap"
+            ],
+            "Year": 2016
+        },
+        {
+            "Artist": "Drake",
+            "Title": "Popstar",
+            "Genres": [
+                "EDM",
+                "Rap"
+            ],
+            "Year": 2020
+        },
+        {
+            "Artist": "Juice WRLD",
+            "Title": "Popstar",
+            "Genres": [
+                "Rap"
+            ],
+            "Year": 2019
+        }
+    ]
+}
