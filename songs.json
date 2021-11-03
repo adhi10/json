@@ -75,12 +75,13 @@
             "Year": 2020
         },
         {
-            "Artist": "Juice WRLD",
-            "Title": "Popstar",
+            "Artist": "Diplo and Tiësto",
+            "Title": "C’mon",
             "Genres": [
+                "EDM",
                 "Rap"
             ],
-            "Year": 2019
+            "Year": 2011
         }
     ]
 }
